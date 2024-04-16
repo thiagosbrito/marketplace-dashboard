@@ -1,4 +1,3 @@
-'use client';
 import { DASHBOARD_ROUTE, FORGET_PASSWORD_ROUTE, RESET_PASSWORD_ROUTE, SIGNIN_ROUTE, SIGNUP_ROUTE, VERIFY_EMAIL_ROUTE } from "@/constants/routes";
 import { AuthContext } from "@/providers/AuthProvider";
 import { useRouter } from "next/navigation";
