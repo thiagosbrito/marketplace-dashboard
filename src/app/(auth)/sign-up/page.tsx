@@ -1,3 +1,4 @@
+'use client';
 import useAuthentication from "@/hooks/useAuthentication";
 
 const SignUpPage = () => {
